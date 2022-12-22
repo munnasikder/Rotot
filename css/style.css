@@ -1,0 +1,230 @@
+/*common start*/
+body{
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #111111;
+	padding-top: 109px;
+
+}
+/*common end*/
+/*header start*/
+header{
+	padding: 10px 0;
+	background-color: #E1F3FD;
+}
+.menu ul li a{
+	font-size: 17px;
+	color: #010101 !important;
+	padding: 0 20px !important;
+	text-transform: uppercase;
+}
+.menu ul li:last-child a{
+	padding-right: 0 !important;
+}
+.menu ul li a:hover{
+	color: #FED200 !important;
+}
+/*header end*/
+/*slider start*/
+.slider{
+	background-color: #E1F3FD;
+}
+.common{
+	padding-top: 60px;
+}
+.s_text{}
+.s_text h2{
+	font-size: 30px;
+    text-transform: uppercase;
+
+}
+.s_text span{
+    font-size: 80px;
+
+}
+.s_text p{
+    margin: 25px 0;
+
+}
+.s_button{
+	margin-bottom: 50px;
+}
+.b_1{
+	font-weight: 600;
+	padding: 10px 30px;
+	margin-right: 16px;
+	text-transform: uppercase;
+	transition: .3s;
+}
+.b_1:hover{
+	color: #ffffff;
+}
+.b_2{
+	font-weight: 600;
+	padding: 10px 20px;
+	text-transform: uppercase;
+	transition: .3s;
+
+}
+.b_2:hover{
+	color: #ffffff;
+}
+.s_img{}
+/*slider end*/
+/*about start*/
+.about{
+	padding: 60px 0;
+}
+.a_img{}
+.a_img img{}
+.a_text{   
+    margin-top: 60px;
+    margin-left: 40px;
+}
+.a_text h2{
+	font-size: 45px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.a_text p{   
+	margin: 30px 0;
+}
+
+/*about end*/
+/*service start*/
+.service{
+	padding: 80px 0;
+}
+.ser_text{}
+.ser_text h2{
+	font-size: 45px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.ser_text h6{   
+    margin: 35px 0;
+}
+.single{
+	padding: 10px;
+    border-radius: 15px;
+    transition: .3s;
+}
+.single:hover{
+	box-shadow: 0px 2px 5px 0px rgba(247,204,0,1);
+
+}
+.card-body img{}
+.card-body h5{
+	font-weight: 700;
+    text-transform: uppercase;
+    display: inline-block;
+    margin-left: 20px;
+}
+.card-body p{
+	margin-top: 30px;
+}
+.ser_button{
+  	margin-top: 30px;
+   	margin-left: 100px;
+}
+/*service end*/
+/*team start*/
+.team{
+	padding: 60px 0;
+}
+.t_item{
+    margin-top: 50px;
+}
+.t_item img{}
+.t_text{
+	margin-top: 30px;
+	margin-left: -35px;
+}
+.t_text h5{
+    font-size: 28px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.t_text h6{
+    font-weight: 600;
+    color: #FFDF60;
+    text-transform: uppercase;
+    }
+/*team end*/
+/*testimonial start*/
+.testimonial{
+	padding: 100px 0;
+	background-color: #E1F3FD;
+}
+.testi{
+	margin-top: 50px !important;
+    margin-right: 50px !important;
+}
+.testi_txt{}
+.testi_img{}
+.testi_img img{
+	border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+.testi_img h6{
+	margin-top: 15px;
+    font-weight: 600;
+}
+.testi_txt p{
+	margin-top: 2px;
+    background: #fff;
+    padding: 20px;
+    text-align: start;
+}
+/*testimonial end*/
+/*contact start*/
+.contact{
+	padding: 100px 0;
+}
+.f_button{
+	font-weight: 600;
+    transition: .3s;
+}
+.f_button:hover{
+    color: #fff;
+}
+/*contact end*/
+/*footer start*/
+footer{
+	padding-top: 80px;
+	background-color: #2F2F30;
+}
+.f_left{}
+.f_item{
+    margin: 20px 0;
+}
+.f_item img{
+	width: 30px;
+}
+.f_item span{
+	color: #fff;
+    margin-left: 10px;
+}
+.c_text{    
+	color: #fff;
+	margin-top: 40px !important;
+}
+.c_form{
+   width: 348px;
+}
+.c_email{
+	margin-top: 10px;
+}
+.c_btn{    
+	margin-top: 10px;
+}
+.f_right{
+	margin-top: 20px;
+}
+.copy_right{
+	color: #fff;
+	margin: 20px 0;
+}
+/*footer end*/
